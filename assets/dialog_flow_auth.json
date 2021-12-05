@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "deep-tracer-333921",
+  "private_key_id": "e83d1a4e7de9c6f636f278b17889fb9964a746ea",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqFkKFaP3oioC0\nYNLGH0lvpjo1XjoGMR+gsSC4mi719Y8E4HtgD36KmxEeW39b8xjE6I3EbwlEBqCf\nOtLVcRZ8T658mIEjg2n1/RRvfzHgRF0ZoLS6jOA/9avOwpGdnayPN3goihXdSWT1\nQOttO6n+vzRNeRJLYrCyn+/hbjXP4s7ImlQNLI8n4DkCuMfHN4GPsc5H6U5Ldeh0\n4/5JsqhxA5Hv3Nzq1XXc1SaRayeP3ITf2jf7u+0k+wr1PqijIHkWu4EPvrQyBL2N\nU3Tk/ZLLM5j4JRYbX+X3n1fIoNanGFVwZ5wxa6S2ZT8o/SWB3ntkQMqES30IRNfk\nl/lQSZUTAgMBAAECggEAIbYewi2Aod4Ny3KjZBRgbEowoFJIQuDqqWFiIGSi6Soe\nCjPqECySAqvgdTliYVmp76E+NBBj8EE2BclVb2umLsZmSZi6g8zwrApYyg6WVqKG\nJ2W0XIM+kT7CqkzjKq/NO2edn79avQzmfzu6TeC0/WJtXeugxiNN7WGI3JAJB2ZU\nfO+p8MiSZdTa8AMwp9PG7e2zmcts8YlZ6jqVHcOMVdHrNXeUFwcAU9J2KL+b3RC5\nrKqIAethomFiBCyJ8tqmmcjce+JXFIQPV5pIQnqmhJt2aM5/8uVA7bV+sDweDXHr\nn0lahGP1J+CuiIegtu2N6amU34SOrLuoyaQDuOkbJQKBgQDems0WkXoDQphJrMuH\nWQyQ0YgnMlIYv+djrxEulRl+tIU52Z8I7U6q0jahP2KxX0WgSRlkyo/UiLmm7fxk\n30hJeGdLrWvDI+75qZz/OijjxhMQ7HgxqO3ZgDQNjPX/pgMdSajPatSJGzaBzT3n\nrBx0ES3G5uHF7i1tRKEL7ocCxQKBgQDDmn/btjN5Xy5lyOHgcOsZs8spN8Oi/FTL\nURd6VRvTnSwST+l3RVnzLkaLK23gxLl8adB9VYvExrnwKZ56IdxQ1oSRNbA2JSGL\nLQZejeQa/IjgVUmRVutB/CLEBn+VoX0ZnoXEprFoVWOb1yMWpOLWCjGAhg9g+KPY\n2Nith1jV9wKBgFcbQjebk6Ak9gyWZko/SVB9/YZBBakTpwr13YZZ59ER+LQLeVT3\n73meqqvsbsUzn745/IrZTPEA040DwWkDinjdeaY+ZVXGAOSHP50L+CYxQxKzRdFA\n5lne9f97cmOoZb2XLkyD5EkGcgzW8GtwiO3OLxiPDjfynKoOWeqeWwx1AoGBAL3e\nuz4LHuwx+FfVJ202LwBEBnF8L+uGBMlXbfLRqrE/YAhmibm9GBN2WAO/pGkKjQK3\ntCn1YDcisFrwC2WCeNn/Ya+S7fmhEW6HxicClOmdOUCJiWALf1IN7bFanX4hw82a\nkz7QkGU2ffpIW0cfxxD91A9uEn+O230jATFwsEsBAoGAfRoXiCbnhR48C+NQiBXV\nidyoUW5pYmclonoq/Co49PoiiYx3+YXGl6wimU8JH8Q+J18bSlsNHpO5eF2ZCKnq\nJVfDbJksjJ98HbuyIXojItY78kPxrvqW87tXl6Ax1v7ibEKi59nzItczB93SCzxt\nTFH0vTZV8fvdm/Iaa40DcL0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cuenta-de-servicio-flutter@deep-tracer-333921.iam.gserviceaccount.com",
+  "client_id": "105577020279125713038",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cuenta-de-servicio-flutter@deep-tracer-333921.iam.gserviceaccount.com"
+}
